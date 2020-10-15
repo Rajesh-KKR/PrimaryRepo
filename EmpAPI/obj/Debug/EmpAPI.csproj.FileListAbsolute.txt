@@ -1,0 +1,2 @@
+C:\Users\Raja\Source\Repos\EmpAPI\EmpAPI\obj\Debug\EmpAPI.csprojAssemblyReference.cache
+C:\Users\Raja\Source\Repos\EmpAPI\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
